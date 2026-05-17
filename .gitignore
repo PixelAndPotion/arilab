@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+arilab.db
+.DS_Store
