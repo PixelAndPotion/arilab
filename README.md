@@ -14,7 +14,7 @@ A code review training simulator built in pure Python. Each session presents bug
 
 ## Scoring
 
-Each challenge has a set of required concepts. Your answer is checked for keyword matches — you don't need exact wording, you need to demonstrate you understand the core issue.
+Each challenge has a set of required concepts. Your answer is checked for keyword matches
 
 | Grade | Criteria | Points |
 |---|---|---|
